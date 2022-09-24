@@ -6,6 +6,9 @@ I built a Simple Snake Game with FreeRTOS with < AVR atmega32 > and i like to sh
 
 https://github.com/AhmedKhalilAlsayed/SnakeGameWithFreeRTOS/blob/main/Vid20220924084802-1.m4v
 
+https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4
+
+
 # Components
 * AVR atmega32
 * LCD 16*2
